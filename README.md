@@ -3,4 +3,4 @@
 Char-RNN generated Dr. Seuss
 
 ## Data
-![alt text](https://github.com/briancheang/dr-seuss/tree/master/images/data_distribution.png "Char vs Word Distribution")
+<img src="images/data_distribution.png" alt="word_vs_char" width="600px"/>
