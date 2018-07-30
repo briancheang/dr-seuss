@@ -5,7 +5,7 @@ Char-RNN generated text trained on Dr. Seuss books
 ## Data
 
 ### Books
-21 books by Dr. Seuss
+[21 Dr. Seuss Books](https://github.com/briancheang/dr-seuss/tree/master/notebooks/texts/individual)
 
 ### Characters
 - 84924 total characters
