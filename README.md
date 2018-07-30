@@ -10,12 +10,12 @@ Char-RNN generated text trained on Dr. Seuss books
 ### Characters
 - 84924 total characters
 - 34 unique characters
-<img src="images/char_distribution.png" alt="char_dist" width="600px"/>
+<img src="images/char_distribution.png" alt="char_dist" width="460px"/>
 
 ### Words
 - 16423 total words
 - 2345 unique words
-<img src="images/word_distribution.png" alt="word_dist" width="600px"/>
+<img src="images/word_distribution.png" alt="word_dist" width="460px"/>
 
 ## Models + Results
 
